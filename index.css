@@ -204,20 +204,20 @@ button{
 }
 .project-container h1{
     position:absolute;
-    top: 900px;
+    top: 880px;
     left: 100px;
 }
 .project-container p{
     background-color:rgba(4, 111, 160, 0.9) ;
     position: absolute;
-    top: 1040px;
+    top: 1100px;
 }
 .project-container .project{
     width: 35.9%;
 }
 .project-container button{
     position: absolute;
-    top:1250px ;
+    top:1150px ;
     left: 45%;
 }
 }
