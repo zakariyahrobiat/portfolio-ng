@@ -67,13 +67,7 @@
     font-weight: 900;
     font-size: 50px;
 }
-@media( max-width:768px){
-    .text-container h1{
-        padding: 20px 0px;
-        font-weight: 900;
-        font-size: 40px;
-    }  
-}
+
 button{
     padding: 15px 20px;
     background-color: transparent;
@@ -113,6 +107,7 @@ button{
     padding-left: 100px;
     margin-top: 100px;
     margin-bottom: 200px;
+    overflow: hidden;
     
 }
 .project-container .project-2 , .project-3{
@@ -120,6 +115,7 @@ button{
    /* padding-left: 100px; */
    margin-top: 100px;
    margin-bottom: 200px;
+   overflow: hidden;
    
 }
  #image{
@@ -173,6 +169,57 @@ button{
     width: 3%;
     overflow: hidden;
 }
+@media( max-width:1115px){
+    .text-container h1{
+        padding: 20px 0px;
+        font-weight: 900;
+        font-size: 40px;
+    }  
+    .img-container img{
+        width: 100%;
+        height:61.5%;
+        overflow: hidden;
+        /* opacity: 0.9; */
+        
+        
+    }
+    .main-section{
+        position: absolute;
+        top: 10px;
+        display: flex;
+        left: 100px;
+        gap: 500px;
+    }
+    .about-container .text-wrapper{
+        line-height: 2.5;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+         font-size: 13px; 
+         
+    }
+    .project-container{
+        margin-top: 50px;
+}
+.project-container h1{
+    position:absolute;
+    top: 900px;
+    left: 100px;
+}
+.project-container p{
+    background-color:rgba(4, 111, 160, 0.9) ;
+    position: absolute;
+    top: 1140px;
+}
+.project-container .project{
+    width: 35.9%;
+}
+.project-container button{
+    position: absolute;
+    top:1250px ;
+    left: 45%;
+}
+}
+
+
 @media(max-width:900px){
     .body{
         display: flex;
