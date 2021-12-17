@@ -191,7 +191,7 @@ button{
         top: 10px;
         display: flex;
         left: 100px;
-        gap: 500px;
+        gap: 470px;
     }
     .about-container .text-wrapper{
         line-height: 2.5;
@@ -217,7 +217,7 @@ button{
 }
 .project-container button{
     position: absolute;
-    top:1150px ;
+    top:1180px ;
     left: 45%;
 }
 }
@@ -331,7 +331,7 @@ button{
         gap: 3px;
             background-image:linear-gradient(to right, rgb(0, 183, 255) , rgb(0, 255, 255));
             position: absolute;
-            top: 280px;
+            top: 250px;
     }
     .project-container .project{
          width: 33.6%;
