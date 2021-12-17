@@ -183,6 +183,9 @@ button{
         
         
     }
+    .body .text-container{
+        height: 450px;
+    }
     .main-section{
         position: absolute;
         top: 10px;
@@ -193,7 +196,7 @@ button{
     .about-container .text-wrapper{
         line-height: 2.5;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-         font-size: 13px; 
+         font-size: 12px; 
          
     }
     .project-container{
