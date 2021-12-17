@@ -8,7 +8,7 @@
     
 }
 .body .text-container, .img-container{
-   max-width: 50%;
+   width: 50%;
 }
 
 .img-container img{
