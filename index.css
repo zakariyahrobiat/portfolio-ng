@@ -204,13 +204,13 @@ button{
 }
 .project-container h1{
     position:absolute;
-    top: 950px;
+    top: 900px;
     left: 100px;
 }
 .project-container p{
     background-color:rgba(4, 111, 160, 0.9) ;
     position: absolute;
-    top: 1140px;
+    top: 1040px;
 }
 .project-container .project{
     width: 35.9%;
@@ -331,7 +331,7 @@ button{
         gap: 3px;
             background-image:linear-gradient(to right, rgb(0, 183, 255) , rgb(0, 255, 255));
             position: absolute;
-            top: 310px;
+            top: 280px;
     }
     .project-container .project{
          width: 33.6%;
