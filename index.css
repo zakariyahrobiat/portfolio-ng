@@ -173,7 +173,7 @@ button{
     .text-container h1{
         padding: 20px 0px;
         font-weight: 900;
-        font-size: 40px;
+        font-size: 30px;
     }  
     .img-container img{
         width: 100%;
@@ -328,7 +328,7 @@ button{
         gap: 3px;
             background-image:linear-gradient(to right, rgb(0, 183, 255) , rgb(0, 255, 255));
             position: absolute;
-            top: 360px;
+            top: 310px;
     }
     .project-container .project{
          width: 33.6%;
@@ -380,7 +380,7 @@ button{
         padding: 5px;
     }
     .contact-container{
-         margin-top: 338px; 
+         margin-top: 358px; 
         background-color:rgba(4, 111, 160, 0.9) ;
         /* padding-left: 50px; */
         text-align: center;
