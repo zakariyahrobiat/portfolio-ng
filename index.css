@@ -184,7 +184,7 @@ button{
         
     }
     .body .text-container{
-        height: 450px;
+        height: 455px;
     }
     .main-section{
         position: absolute;
@@ -200,7 +200,7 @@ button{
          
     }
     .project-container{
-        margin-top: 80px;
+        margin-top: 100px;
 }
 .project-container h1{
     position:absolute;
