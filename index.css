@@ -8,8 +8,9 @@
     
 }
 .body .text-container, .img-container{
-    width: 50%;
+   max-width: 50%;
 }
+
 .img-container img{
     width: 100%;
     height:50%;
@@ -24,9 +25,9 @@
     height: 508px;
     padding-top: 100px;
     padding-left: 100px;
+    padding-right: 50px;
     color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    max-width: 50%;
 }
 .main-section{
     position: absolute;
