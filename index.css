@@ -196,15 +196,15 @@ button{
     .about-container .text-wrapper{
         line-height: 2.5;
         font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-         font-size: 12px; 
+         font-size: 11px; 
          
     }
     .project-container{
-        margin-top: 50px;
+        margin-top: 80px;
 }
 .project-container h1{
     position:absolute;
-    top: 900px;
+    top: 950px;
     left: 100px;
 }
 .project-container p{
