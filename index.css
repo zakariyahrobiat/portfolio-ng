@@ -309,7 +309,7 @@ button{
     }
     .fas{
         position: absolute;
-        padding-left: 345px;
+        padding-left: 330px;
         padding-top: 10px;
         cursor: pointer;
         
@@ -403,7 +403,7 @@ button{
         position: absolute;
         top: 110px;
         width: 31%;
-        padding: 10px 10px;
+        padding: 10px 5px;
         font-size: 12px;
         color: white;
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
