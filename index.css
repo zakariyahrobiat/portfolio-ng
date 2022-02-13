@@ -217,6 +217,7 @@ button{
     background-color:rgba(4, 111, 160, 0.9) ;
     position: absolute;
     top: 1100px;
+    padding: 20px 20px;
 }
 .project-container .project{
     width: 35.9%;
